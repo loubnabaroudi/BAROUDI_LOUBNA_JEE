@@ -4,7 +4,11 @@ TP1/
 Partie1 :
 https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP1/tp1-partie1/README.md
 
-TP2/
+TP1/
 Partie2 :
 https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP1/tp1-partie2/README.md
+
+TP2/
+Partie1 :
+https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP2/university/README.md
 
