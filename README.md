@@ -13,8 +13,8 @@ Partie1 :
 https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP2/university/README.md
 
 TP2/
-Partie2 :
-https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP2/hospital/README.md
+Partie2 : https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP2/hospital/README.md
+
 
 TP2/
 Partie3 :
