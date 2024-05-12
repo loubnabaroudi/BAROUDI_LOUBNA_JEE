@@ -27,3 +27,7 @@ https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP3_partie1/hopita
 TP3/
 Partie2 :
 https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP3_partie2/hospital/README.md
+
+TP3/
+Partie3 :
+https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP3_partie3/hospital/README.md
