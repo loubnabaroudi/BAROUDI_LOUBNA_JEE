@@ -23,3 +23,7 @@ https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP2/jpa-fsm/README
 TP3/
 Partie1 :
 https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP3_partie1/hopitalll/README.md
+
+TP3/
+Partie2 :
+https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP3_partie2/hospital/README.md
