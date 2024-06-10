@@ -39,3 +39,7 @@ https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/tp4_partie1/README
 TP4/
 Partie2-1 :
 https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/tp_partie2-1/README.md
+
+TP4/
+Partie2-2 :
+https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/tp4_partie2-2/README.md
