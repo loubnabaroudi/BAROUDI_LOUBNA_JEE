@@ -1,20 +1,38 @@
-On va continuer sur les deux partie precedantes :
+Modification de la fonctino getProducts pour qu'elle puisse prendre la réponse à partir de l'URL :
 
-Ajout du component dashboard :
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/1fb82533-0131-41bb-a89d-a4a32091a1a9)
 
-![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/15f8c32a-39ed-4102-9a45-c038a019c5a0)
+Modification de getProducts pour recevoir le x-total-count pour savoir le nombre de pages (totalPages) :
 
-et voici l'interface:
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/8ed3d010-c8e1-455b-894d-0b0827154445)
 
-![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/a85dd40a-c6fe-4663-982a-7d314bf7dbde)
+On reçois sur la console le nombre de x-total-count :
 
-L'ajout de app-errors pour gérer les erreurs . Dans ce test ,nous avons arrété le json-server pour qu'on puisse voir l'erreur :
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/33ab7b8a-2b86-41bf-ba58-52b5ce31813d)
 
-![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/f156ea85-403b-47e4-9b27-a29b31528dbf)
+Utilisation de totalPages pour faire la pagination :
 
-Rendre la connexion un peu lent pour voir le spinner de chargement des produits :
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/876c7a25-2ae3-40a3-9859-4899d9cf51ef)
 
-![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/164e6bf2-74b5-4f12-8df4-6f9a4636885d)
+Résultat de Pagination :
+
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/08d0d48f-9740-45bd-81d4-5a111488709d)
+
+Ajout d'un nouvelle component editProduct et function update pour pouvoir modifier un produit :
+
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/24ac5196-d827-4106-bbad-3f9ae55594fc)
+
+Après ajout de bouton et icone dans editProduct.html , on reçoit le résultat suivant :
+
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/423b8262-511c-4f62-b1fb-0f4b16f5d275)
+
+lorsqu'on click sur l'edit d'un produit , on se retrouve dans le formulaire de modification et update :
+
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/debbfcfd-f5e1-40de-b9d0-d85eaa04cd32)
+
+
+
+
 
 
 
