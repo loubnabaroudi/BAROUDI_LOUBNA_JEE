@@ -1,27 +1,19 @@
-# FsApp
+On va continuer sur les deux partie precedantes :
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+Ajout du component dashboard :
 
-## Development server
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/15f8c32a-39ed-4102-9a45-c038a019c5a0)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+et voici l'interface:
 
-## Code scaffolding
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/a85dd40a-c6fe-4663-982a-7d314bf7dbde)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+L'ajout de app-errors pour gérer les erreurs . Dans ce test ,nous avons arrété le json-server pour qu'on puisse voir l'erreur :
 
-## Build
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/f156ea85-403b-47e4-9b27-a29b31528dbf)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Rendre la connexion un peu lent pour voir le spinner de chargement des produits :
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/164e6bf2-74b5-4f12-8df4-6f9a4636885d)
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
