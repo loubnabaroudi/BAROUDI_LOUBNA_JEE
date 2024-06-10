@@ -1,27 +1,23 @@
-# FsApp
+Ajout du component login:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/5494e4d2-49c2-4613-89b0-03bcf556fb61)
 
-## Development server
+Ajout de auth service pour gérer le login avec l'utilisation de btoa pour encoder le mot de pass et atob pour décoder le mot de passe :
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/75ef8de4-2dac-4512-bb9c-bbe0d88f2e8b)
 
-## Code scaffolding
+Essai de s'authentifier avec des mauvais credentiels:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/c7d2dd83-64a0-44b3-95d3-0b7d936f8caf)
 
-## Build
+Ajoutons les guards , et essayons quand un user essaie de ajouter un nouveau produit:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/7af208da-b59f-4f39-a280-a25cf37ae9a0)
 
-## Running unit tests
+Derniere vue d'admin:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/0563ebb9-612e-4b69-acdf-40f599dd1e8a)
 
-## Running end-to-end tests
+Dernière vue du user1:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/assets/154988277/f035d4eb-f844-4cae-b73e-428d9e8d9ec4)
