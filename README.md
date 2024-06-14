@@ -55,3 +55,6 @@ https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/tp4_partie2-4/READ
 TP4/
 Partie3 :
 https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/tp4_partie3/frontend-ang/README.md
+
+TP5/
+https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP5/ws-soap-fsm/README.md
