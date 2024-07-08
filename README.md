@@ -58,3 +58,6 @@ https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/tp4_partie3/fronte
 
 TP5/
 https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP5/ws-soap-fsm/README.md
+
+TP6/
+https://github.com/loubnabaroudi/BAROUDI_LOUBNA_JEE/blob/main/TP6/bank-account-service1/README.md
